@@ -62,6 +62,7 @@ This project implements a **Multi-Layer Perceptron (MLP)** using **TensorFlow an
 MLP_tensorflow/
 │
 ├── MLP_tensorflow.ipynb           # Jupyter notebook with all code
+├── MLP_tensorflow.pdf             # The same code in PDF format for better viewing
 ├── README.md                      # Project documentation
 ```
 
@@ -87,12 +88,6 @@ MLP_tensorflow/
 
 ---
 
-## 🛠 Future Enhancements
-
-- Add hyperparameter tuning via Keras Tuner
-- Try different model architectures
-- Add support for cross-validation
-- Deploy using Flask/Streamlit
 
 ---
 
