@@ -49,13 +49,3 @@ pip install tensorflow numpy matplotlib scikit-learn
 
 - `CNN_classification.ipynb` – Contains the complete code for building, training, and evaluating the CNN.
 - `CNN_classification.pdf` – Contains the pdf.
-
-## ✅ Future Improvements
-
-- Add dropout layers to reduce overfitting
-- Include markdown cells for better documentation
-- Add data augmentation for improved generalization
-
-## 📬 Contact
-
-For any queries or issues, feel free to contact the project contributor.
