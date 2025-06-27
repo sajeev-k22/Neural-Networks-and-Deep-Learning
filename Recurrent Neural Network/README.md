@@ -109,7 +109,3 @@ Install dependencies with:
 ```bash
 pip install -r requirements.txt
 ```
-
-## 👨‍💻 Author
-
-Developed by [Your Name] as part of a deep learning project on NLP and spam filtering.
