@@ -45,6 +45,12 @@ Below is a list of the projects included in this collection. Click on the projec
     *   **Description:** Demonstrates Perceptron algorithm implementations for logic gates (AND, OR) and binary classification on the Iris dataset using three methods: hardcoded Python, TensorFlow/Keras, and Scikit-learn.
     *   **Key Technologies:** Python, NumPy, Matplotlib, TensorFlow, Keras, Scikit-learn.
     *   **View Project:** [`./logic_gate_perceptron/README.md`](./logic_gate_perceptron/README.md)
+  
+9.  **[🧠 Autoencoder for Image Denoising](./autoencoder/)**
+    *   **Description:** Trains both Dense and Convolutional Autoencoders using TensorFlow to remove noise from CIFAR-10 images, demonstrating feature compression and reconstruction.
+    *   **Key Technologies:** Python, TensorFlow, Keras, NumPy, Matplotlib.
+    *   **View Project:** [`./autoencoder/README.md`](./autoencoder/README.md)
+
 
 ## 🧰 General Technologies Used Across Projects
 
